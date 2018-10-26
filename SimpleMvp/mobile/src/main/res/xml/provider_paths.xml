@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<external-files-path
+        name="head_imgs"
+        path="Android/data/iss.com.party_member_pro/files/Pictures"
+        />-->
+    <root-path
+        name="root-path"
+        path="." />
+    <files-path
+        name="file_path"
+        path="files/" />
+</paths>
